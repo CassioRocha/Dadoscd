@@ -87,7 +87,7 @@ age,bp,sg,al,su,rbc,pc,pcc,ba,bgr,bu,sc,sod,pot,hemo,pcv,wbcc,rbcc,htn,dm,cad,ap
 70,70,1.015,2,?,?,?,notpresent,notpresent,?,46,1.5,?,?,9.9,?,?,?,no,yes,no,poor,yes,no,ckd
 56,80,?,?,?,?,?,notpresent,notpresent,415,37,1.9,?,?,?,?,?,?,no,yes,no,good,no,no,ckd
 70,100,1.005,1,0,normal,abnormal,present,notpresent,169,47,2.9,?,?,11.1,32,5800,5,yes,yes,no,poor,no,no,ckd
-58,110,1.010,4,0,?,normal,notpresent,notpresent,251,52,2.2,?,?,?,?,13200,4.7,yes,	yes,no,good,no,no,ckd
+58,110,1.010,4,0,?,normal,notpresent,notpresent,251,52,2.2,?,?,?,?,13200,4.7,yes,yes,no,good,no,no,ckd
 50,70,1.020,0,0,?,normal,notpresent,notpresent,109,32,1.4,139,4.7,?,?,?,?,no,no,no,poor,no,no,ckd
 63,100,1.010,2,2,normal,normal,notpresent,present,280,35,3.2,143,3.5,13.0,40,9800,4.2,yes,no,yes,good,no,no,ckd
 56,70,1.015,4,1,abnormal,normal,notpresent,notpresent,210,26,1.7,136,3.8,16.1,52,12500,5.6,no,no,no,good,no,no,ckd
