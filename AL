@@ -1,0 +1,103 @@
+nome,latitude,longitude
+Maceió,-9.66599,-35.735
+Água Branca,-9.262,-37.938
+Anadia,-9.68489,-36.3078
+Arapiraca,-9.75487,-36.6615
+Atalaia,-9.5119,-36.0086
+Barra de Santo Antônio,-9.4023,-35.5101
+Barra de São Miguel,-9.83842,-35.9057
+Batalha,-9.6742,-37.133
+Belém,-9.57047,-36.4904
+Belo Monte,-9.82272,-37.277
+Boca da Mata,-9.64308,-36.2125
+Branquinha,-9.23342,-36.0162
+Cacimbinhas,-9.40121,-36.9911
+Cajueiro,-9.3994,-36.1559
+Campestre,-8.84723,-35.5685
+Campo Alegre,-9.78451,-36.3525
+Campo Grande,-9.95542,-36.7926
+Canapi,-9.11932,-37.5967
+Capela,-9.41504,-36.0826
+Carneiros,-9.48476,-37.3773
+Chã Preta,-9.2556,-36.2983
+Coité do Nóia,-9.63348,-36.5845
+Colônia Leopoldina,-8.91806,-35.7214
+Coqueiro Seco,-9.63715,-35.7994
+Coruripe,-10.1276,-36.1717
+Craíbas,-9.6178,-36.7697
+Dois Riachos,-9.38465,-37.0965
+Estrela de Alagoas,-9.39089,-36.7644
+Feira Grande,-9.89859,-36.6815
+Feliz Deserto,-10.2935,-36.3028
+Flexeiras,-9.27281,-35.7139
+Girau do Ponciano,-9.88404,-36.8316
+Ibateguara,-8.97823,-35.9373
+Igaci,-9.53768,-36.6372
+Igreja Nova,-10.1235,-36.6597
+Inhapi,-9.22594,-37.7509
+Jacaré dos Homens,-9.63545,-37.2076
+Jacuípe,-8.83951,-35.4591
+Japaratinga,-9.08746,-35.2634
+Jaramataia,-9.66224,-37.0046
+Jequiá da Praia,-10.0133,-36.0142
+Joaquim Gomes,-9.1328,-35.7474
+Jundiá,-8.93297,-35.5669
+Junqueiro,-9.90696,-36.4803
+Lagoa da Canoa,-9.83291,-36.7413
+Limoeiro de Anadia,-9.74098,-36.5121
+Major Isidoro,-9.53009,-36.992
+Mar Vermelho,-9.44739,-36.3881
+Maragogi,-9.00744,-35.2267
+Maravilha,-9.23045,-37.3524
+Marechal Deodoro,-9.70971,-35.8967
+Maribondo,-9.58353,-36.3045
+Mata Grande,-9.11824,-37.7323
+Matriz de Camaragibe,-9.15437,-35.5243
+Messias,-9.39384,-35.8392
+Minador do Negrão,-9.31236,-36.8696
+Monteirópolis,-9.60357,-37.2505
+Murici,-9.30682,-35.9428
+Novo Lino,-8.94191,-35.664
+Olho d'Água das Flores,-9.53686,-37.2971
+Olho d'Água do Casado,-9.50357,-37.8301
+Olho d'Água Grande,-10.0572,-36.8101
+Olivença,-9.51954,-37.1954
+Ouro Branco,-9.15884,-37.3556
+Palestina,-9.67493,-37.339
+Palmeira dos Índios,-9.40568,-36.6328
+Pão de Açúcar,-9.74032,-37.4403
+Pariconha,-9.25634,-37.9988
+Paripueira,-9.46313,-35.552
+Passo de Camaragibe,-9.24511,-35.4745
+Paulo Jacinto,-9.36792,-36.3672
+Penedo,-10.2874,-36.5819
+Piaçabuçu,-10.406,-36.434
+Pilar,-9.60135,-35.9543
+Pindoba,-9.47382,-36.2918
+Piranhas,-9.624,-37.757
+Poço das Trincheiras,-9.30742,-37.2889
+Porto Calvo,-9.05195,-35.3987
+Porto de Pedras,-9.16006,-35.3049
+Porto Real do Colégio,-10.1849,-36.8376
+Quebrangulo,-9.32001,-36.4692
+Rio Largo,-9.47783,-35.8394
+Roteiro,-9.83503,-35.9782
+Santa Luzia do Norte,-9.6037,-35.8232
+Santana do Ipanema,-9.36999,-37.248
+Santana do Mundaú,-9.17141,-36.2176
+São Brás,-10.1141,-36.8522
+São José da Laje,-9.01278,-36.0515
+São José da Tapera,-9.55768,-37.3831
+São Luís do Quitunde,-9.31816,-35.5606
+São Miguel dos Campos,-9.78301,-36.0971
+São Miguel dos Milagres,-9.26493,-35.3763
+São Sebastião,-9.93043,-36.559
+Satuba,-9.56911,-35.8227
+Senador Rui Palmeira,-9.46986,-37.4576
+Tanque d'Arca,-9.53379,-36.4366
+Taquarana,-9.64529,-36.4928
+Teotônio Vilela,-9.91656,-36.3492
+Traipu,-9.96262,-37.0071
+União dos Palmares,-9.15921,-36.0223
+Viçosa,-9.36763,-36.2431
+Delmiro Gouveia,-9.38534,-37.9987
